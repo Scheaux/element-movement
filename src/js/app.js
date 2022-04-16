@@ -1,8 +1,3 @@
-// for demonstration purpose only
-export default function demo(value) {
-  return value;
-}
-
 const goblin = document.getElementById('goblin');
 const cells = document.getElementsByClassName('cell');
 
